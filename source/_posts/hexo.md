@@ -12,6 +12,7 @@ categories: blog
 [Hexo | NexT打造一个炫酷博客](https://blog.csdn.net/u012294515/article/details/83094693)
 [打造个性超赞博客 Hexo + NexT + GitHub Pages 的超深度优化](https://io-oi.me/tech/hexo-next-optimization/)
 
+
 {% aplayerlist %}
 {
     "autoplay": true,
