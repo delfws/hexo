@@ -25,7 +25,7 @@ Windows系统使用VMware安装MacOS Catalina 10.15系统（黑苹果）的教�
 
 以上软件我已经放入百度网盘的分享目录，您可以根据需要下载所需的文件。
 
-https://pan.baidu.com/share/init?surl=csJDBCnYaBmNxdcjo6JYVA    提取码：grq1
+链接: https://pan.baidu.com/s/1Nlsa1IMhHElmv7TU2RiTrw 提取码: aygh
 
 具全操作过程请看：虚拟机VMware 15安装Mac Os10.14教程  过程都是一样的
 
