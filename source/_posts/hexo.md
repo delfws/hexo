@@ -23,8 +23,8 @@ categories: blog
         {
             "title": "莫问归期",
             "author": "蒋雪儿",
-            "pic": "/music/mowenguiqi/mowenguiqi.jpg",
-            "url": "/music/mowenguiqi/mowenguiqi.m4a",
+            "pic": "/music/dengniguilai/dengniguilai.jpg",
+            "url": "/music/dengniguilai/dengniguilai.m4a",
             "lrc": "/music/mowenguiqi/mowenguiqi.txt"
         }
     ]
